@@ -1,0 +1,66 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "s",
+      "label",
+      "description"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "s": {
+          "type": "uri",
+          "value": "https://jpsearch.go.jp/entity/chname/\u5317\u9F0E\u5982\u9023"
+        },
+        "label": {
+          "type": "literal",
+          "value": "\u5317\u9F0E\u5982\u9023"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "https://jpsearch.go.jp/entity/chname/\u845B\u98FE\u5317\u658E"
+        },
+        "label": {
+          "type": "literal",
+          "value": "\u845B\u98FE\u5317\u658E"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "https://jpsearch.go.jp/entity/chname/\u845B\u98FE\u5317\u6CC9"
+        },
+        "label": {
+          "type": "literal",
+          "value": "\u845B\u98FE\u5317\u6CC9"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "https://jpsearch.go.jp/entity/chname/\u845B\u98FE\u5FDC\u70BA"
+        },
+        "label": {
+          "type": "literal",
+          "value": "\u845B\u98FE\u5FDC\u70BA"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "https://jpsearch.go.jp/entity/chname/\u845B\u98FE\u5317\u660E"
+        },
+        "label": {
+          "type": "literal",
+          "value": "\u845B\u98FE\u5317\u660E"
+        }
+      }
+    ]
+  }
+}
